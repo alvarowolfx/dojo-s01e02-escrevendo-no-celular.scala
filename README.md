@@ -3,7 +3,7 @@
 
 ## Data e Local
 Data: 04/07/2015
-Local: Nuvem Tecnologia  
+Local: Nuvem Tecnologia
 
 ## Problema
 Um dos serviços mais utilizados pelos usuários de aparelhos celulares são os SMS (Short Message Service), que permite o envio de mensagens curtas (até 255 caracteres em redes GSM e 160 caracteres em redes CDMA).
